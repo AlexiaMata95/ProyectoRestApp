@@ -29,7 +29,7 @@
   margin: 0;
   width: 100%;
   height: calc(0.6 * 100vw);
-  background-image: url('./components/images/jumbotron.jpg');
+  background-image: url('./images/jumbotron.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -99,7 +99,7 @@
   flex-direction: column-reverse;
   justify-content: flex-end;
   align-items: flex-end;
-  background-image: url('./components/images/critica1.jpg');
+  background-image: url('./images/critica1.jpg');
   color: white;
   border-radius: 2rem;
 }
@@ -145,7 +145,7 @@
     margin: 0;
     width: 100%;
     height: calc(0.6 * 100vw);
-    background-image: url('./components/images/jumbotron.jpg');
+    background-image: url('./images/jumbotron.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -216,7 +216,7 @@
     flex-direction: column-reverse;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url('./components/images/critica1.jpg');
+    background-image: url('./images/critica1.jpg');
     color: white;
     border-radius: 2rem;
   }
@@ -264,7 +264,7 @@
     margin: 0;
     width: 100%;
     height: calc(0.6 * 100vw);
-    background-image: url('./components/images/jumbotron.jpg');
+    background-image: url('./images/jumbotron.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -335,7 +335,7 @@
     flex-direction: column-reverse;
     justify-content: flex-end;
     align-items: flex-end;
-    background-image: url('./components/images/critica1.jpg');
+    background-image: url('./images/critica1.jpg');
     color: white;
     border-radius: 2rem;
   }
