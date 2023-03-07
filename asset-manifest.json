@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.a190a1f3.css",
-    "main.js": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.86a1d8d9.js",
+    "main.css": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.0f001d4b.css",
+    "main.js": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.8dc5e244.js",
     "static/js/787.c6d3ae84.chunk.js": "//alexiamata95.github.io/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js",
     "static/media/jumbotron.jpg": "//alexiamata95.github.io/ProyectoRestApp/static/media/jumbotron.f3b8b28fa9d0871a497f.jpg",
     "static/media/nosotros.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/nosotros.f9815fb7e8c6f68727d4.png",
@@ -11,12 +11,12 @@
     "static/media/llamar.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/llamar.f67ea721e68e7455d62e.png",
     "static/media/whatsapp.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/whatsapp.98454dc49e1b8c99840d.png",
     "index.html": "//alexiamata95.github.io/ProyectoRestApp/index.html",
-    "main.a190a1f3.css.map": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.a190a1f3.css.map",
-    "main.86a1d8d9.js.map": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.86a1d8d9.js.map",
+    "main.0f001d4b.css.map": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.0f001d4b.css.map",
+    "main.8dc5e244.js.map": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.8dc5e244.js.map",
     "787.c6d3ae84.chunk.js.map": "//alexiamata95.github.io/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a190a1f3.css",
-    "static/js/main.86a1d8d9.js"
+    "static/css/main.0f001d4b.css",
+    "static/js/main.8dc5e244.js"
   ]
 }
