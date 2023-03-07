@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.0f001d4b.css",
-    "main.js": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.14b95092.js",
-    "static/js/787.c6d3ae84.chunk.js": "//alexiamata95.github.io/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js",
-    "static/media/jumbotron.jpg": "//alexiamata95.github.io/ProyectoRestApp/static/media/jumbotron.f3b8b28fa9d0871a497f.jpg",
-    "static/media/nosotros.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/nosotros.f9815fb7e8c6f68727d4.png",
-    "static/media/critica1.jpg": "//alexiamata95.github.io/ProyectoRestApp/static/media/critica1.c3695bb7e7feef8ea0b2.jpg",
-    "static/media/email.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/email.03297ca1dc9eadeb62b9.png",
-    "static/media/logo-dried.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/logo-dried.f9a636abc53bf0087d0f.png",
-    "static/media/llamar.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/llamar.f67ea721e68e7455d62e.png",
-    "static/media/whatsapp.png": "//alexiamata95.github.io/ProyectoRestApp/static/media/whatsapp.98454dc49e1b8c99840d.png",
-    "index.html": "//alexiamata95.github.io/ProyectoRestApp/index.html",
-    "main.0f001d4b.css.map": "//alexiamata95.github.io/ProyectoRestApp/static/css/main.0f001d4b.css.map",
-    "main.14b95092.js.map": "//alexiamata95.github.io/ProyectoRestApp/static/js/main.14b95092.js.map",
-    "787.c6d3ae84.chunk.js.map": "//alexiamata95.github.io/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js.map"
+    "main.css": "/ProyectoRestApp/static/css/main.7226bbe0.css",
+    "main.js": "/ProyectoRestApp/static/js/main.89701f64.js",
+    "static/js/787.c6d3ae84.chunk.js": "/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js",
+    "static/media/jumbotron.jpg": "/ProyectoRestApp/static/media/jumbotron.f3b8b28fa9d0871a497f.jpg",
+    "static/media/nosotros.png": "/ProyectoRestApp/static/media/nosotros.f9815fb7e8c6f68727d4.png",
+    "static/media/critica1.jpg": "/ProyectoRestApp/static/media/critica1.c3695bb7e7feef8ea0b2.jpg",
+    "static/media/email.png": "/ProyectoRestApp/static/media/email.03297ca1dc9eadeb62b9.png",
+    "static/media/logo-dried.png": "/ProyectoRestApp/static/media/logo-dried.f9a636abc53bf0087d0f.png",
+    "static/media/llamar.png": "/ProyectoRestApp/static/media/llamar.f67ea721e68e7455d62e.png",
+    "static/media/whatsapp.png": "/ProyectoRestApp/static/media/whatsapp.98454dc49e1b8c99840d.png",
+    "index.html": "/ProyectoRestApp/index.html",
+    "main.7226bbe0.css.map": "/ProyectoRestApp/static/css/main.7226bbe0.css.map",
+    "main.89701f64.js.map": "/ProyectoRestApp/static/js/main.89701f64.js.map",
+    "787.c6d3ae84.chunk.js.map": "/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f001d4b.css",
-    "static/js/main.14b95092.js"
+    "static/css/main.7226bbe0.css",
+    "static/js/main.89701f64.js"
   ]
 }
