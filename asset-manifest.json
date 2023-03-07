@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProyectoRestApp/static/css/main.7226bbe0.css",
-    "main.js": "/ProyectoRestApp/static/js/main.7f418c21.js",
+    "main.js": "/ProyectoRestApp/static/js/main.7af44557.js",
     "static/js/787.c6d3ae84.chunk.js": "/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js",
     "static/media/jumbotron.jpg": "/ProyectoRestApp/static/media/jumbotron.f3b8b28fa9d0871a497f.jpg",
     "static/media/nosotros.png": "/ProyectoRestApp/static/media/nosotros.f9815fb7e8c6f68727d4.png",
@@ -12,11 +12,11 @@
     "static/media/whatsapp.png": "/ProyectoRestApp/static/media/whatsapp.98454dc49e1b8c99840d.png",
     "index.html": "/ProyectoRestApp/index.html",
     "main.7226bbe0.css.map": "/ProyectoRestApp/static/css/main.7226bbe0.css.map",
-    "main.7f418c21.js.map": "/ProyectoRestApp/static/js/main.7f418c21.js.map",
+    "main.7af44557.js.map": "/ProyectoRestApp/static/js/main.7af44557.js.map",
     "787.c6d3ae84.chunk.js.map": "/ProyectoRestApp/static/js/787.c6d3ae84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7226bbe0.css",
-    "static/js/main.7f418c21.js"
+    "static/js/main.7af44557.js"
   ]
 }
